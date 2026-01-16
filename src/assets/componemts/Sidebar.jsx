@@ -73,7 +73,7 @@ export default function MobileOptimizedSidebar() {
           <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-cyan-400 to-blue-600 flex items-center justify-center text-white">
             <Zap size={18} fill="currentColor" />
           </div>
-          <span className="font-black tracking-tighter text-lg">ProjectUI</span>
+          <span className="font-black tracking-tighter text-lg">NEON_LABS</span>
         </div>
         <button 
           onClick={() => setIsMobileMenuOpen(true)}
